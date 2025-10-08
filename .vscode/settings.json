@@ -1,0 +1,10 @@
+{
+  // Use Prettier as the default formatter for HTML files. Replace the extension ID if you prefer a different formatter.
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+
+  // Optional: globally enable format on save for all files
+  "editor.formatOnSave": true
+}
